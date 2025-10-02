@@ -1,7 +1,6 @@
 ### Hi there 👋
-I'm HSE student from Russia. Practice machine learning and algorithms, strive to become better at Data science and Risk analytics.
+I'm HSE student from Russia. Yandex ML-engineer, strive to become better at Data science.
 
-Christian⛪
 
 <!--
 **Fazlyev/Fazlyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
